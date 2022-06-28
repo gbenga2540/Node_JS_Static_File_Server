@@ -1,0 +1,16 @@
+{
+  "name": "node_js_static_file_server",
+  "version": "1.0.0",
+  "description": "Node JS Capstone Project for gorup 8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "author": "gbenga2540",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
